@@ -90,7 +90,7 @@ The images below illustrate the dashboard and application detail/timeline layout
 
 ### Dashboard
 
-![Pathway dashboard](screenshots/dashboard.png)
+![Pathway dashboard](screenshots/dashboard.png.png)
 
 ### Application details and status timeline
 
