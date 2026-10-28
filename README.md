@@ -83,6 +83,7 @@ All endpoints return JSON in the shape `{ "success": boolean, "message": string,
 - Duplicate company + role pairs are compared case-insensitively and blocked with HTTP `409` while an earlier matching application is active.
 - ID and applied date cannot be edited. Interview and Offer applications cannot be deleted.
 - Status filtering, company search, and status counts are computed by the backend.
-
+# screenshot
+screenshots/application.png.png
 ## live link
 https://job-applications-tracker-1.onrender.com
