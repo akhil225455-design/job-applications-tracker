@@ -95,10 +95,5 @@ The images below illustrate the dashboard and application detail/timeline layout
 ### Application details and status timeline
 
 ![Application details and status history](screenshots/application-details.png)
-
-## GitHub submission checklist
-
-1. Create a new GitHub repository and push the complete `project-root` structure.
-2. Keep `.env` limited to dummy/local development values. For a real Atlas evaluation, configure your own test URI; do not commit real credentials.
-3. Make at least five meaningful commits across the exam period, for example: `chore: scaffold MERN project`, `feat(api): add application model and CRUD`, `feat(api): enforce workflow and follow-up rules`, `feat(ui): add responsive dashboard`, `docs: add API reference and screenshots`. Make commits as you complete each milestone rather than fabricating historical timestamps.
-4. Submit the repository URL and verify that the README setup steps work on a clean checkout.
+## live link
+https://job-applications-tracker-1.onrender.com
