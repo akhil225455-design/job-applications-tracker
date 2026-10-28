@@ -84,16 +84,5 @@ All endpoints return JSON in the shape `{ "success": boolean, "message": string,
 - ID and applied date cannot be edited. Interview and Offer applications cannot be deleted.
 - Status filtering, company search, and status counts are computed by the backend.
 
-## Screenshots
-
-The images below illustrate the dashboard and application detail/timeline layout. For your final submission, capture fresh screenshots from your own running app connected to your Atlas test database and replace these files if needed.
-
-### Dashboard
-
-![Pathway dashboard](screenshots/dashboard.png.png)
-
-### Application details and status timeline
-
-![Application details and status history](screenshots/application-details.png)
 ## live link
 https://job-applications-tracker-1.onrender.com
